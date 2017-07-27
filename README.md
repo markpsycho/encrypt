@@ -1,5 +1,6 @@
 # encrypt
 base64  encryption based software to protect files
+gui version of hide_ur_sins
 
 Requirements :
 1. python3
